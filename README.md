@@ -1,7 +1,7 @@
 # 🎯 Guess IF You Can 
 A very simple number-guessing game made with Python for beginners. You will easily understand the codes. **Online learning platforms** inspire this project.
-**Author: **INDROJIT DHE SHAON
-**Language: **Python
+- **Author: **INDROJIT DHE SHAON
+- **Language: **Python
 ---
 ## ⭐ Overview
 An interactive, user-friendly Python number-guessing game. The player is challenged to predict a random number that the game creates within a predetermined range. Until the right number is predicted, it gives immediate feedback.
